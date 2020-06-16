@@ -9,5 +9,5 @@ get '/hello' do
 end
 
 get '/goodbye' do
-	erb :
+	erb :goodbye
 end
